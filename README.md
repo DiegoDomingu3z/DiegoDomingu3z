@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-My name is Diego Dominguez and I am currently a student at Boise State University and Boise CodeWorks. I have a strong background in leadership from being a Boise State Orientation Leader and current Chairman of Diversity & Inclusion of Pi Kappa Alpha at Boise State University. I am always trying to learn new things and have recently grasped a huge passion for coding! I love expressing myself through style and Software Development has just given me another way of expressing myself through the design of my projects. Although I haven't been in the software developing world too long I completely love the front end aspect of my projects. 
+My name is Diego Dominguez and I am currently a student at Boise State University and Boise CodeWorks. I have a strong background in leadership from being a Boise State Orientation Leader and current Chairman of Diversity & Inclusion of Pi Kappa Alpha  Fraternity at Boise State University. I am always trying to learn new things and have recently grasped a huge passion for coding! I love expressing myself through style and Software Development has just given me another way of expressing myself through the design of my projects. Although I haven't been in the software developing world too long I completely love the front end aspect of my projects. 
 
 Pronouns: He/Him/His
 
